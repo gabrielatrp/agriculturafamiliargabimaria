@@ -1,16 +1,19 @@
 body {
-    background-color: #fa5605;
+   background-color: powderblue;
 }
 
 h1 {
     text-align: center;
+    color: plum;
 }
 
 img {
-    width: 32%;
-    margin: center;
-}
+    width: 15%;
 
 .texto {
-    text-align: center;
+    
+}
+
+ul{
+ inline-size: 0%;
 }
